@@ -34,7 +34,7 @@ int main()
 		zh[j].money=0;
 		zh[j].status=0;
 	}
-	printf("欢迎来到王者银行！\n");	
+	printf("欢迎来到天地银行！\n");	
 	while(control==1)
 	{
 		printf("===============================================\n");
